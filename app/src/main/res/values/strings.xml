@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="url_hint">Введите URL</string>
+    <string name="filter_hint">Фильтр</string>
+    <string name="search">Поиск</string>
+    <string name="save">Копировать</string>
+    <string name="server_error">Ошибка сервера.</string>
+    <string name="empty">Вы не выбрали ни одной строки.</string>
+    <string name="save_error">Не удалось сохранить файл "results.log"</string>
+    <string name="save_data">Выбранные строки скопированы в буффер обмена.</string>
+    <string name="no_internet_connection">Отсутствует интернет соединение.</string>
+    <string name="wait">Дождитесь окончания загрузки</string>
+    <string name="wrong_url">Вы ввели неверный url. Не найнедо ни одной строки.</string>
+    <string name="wrong_filter">Измените фильтр. По заданным символом нет результатов.</string>
+</resources>
